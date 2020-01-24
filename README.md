@@ -1,6 +1,8 @@
 # Probit and Percentage Conversion Program
 Uses the (Finney and Stevens 1948) function to calculate percentages from a probit and uses this to make a table that can be used to find a probit from a percentage with fairly accurate results
 
+Citation: Finney, D. J., and W. L. Stevens. ?A Table for the Calculation of Working Probits and Weights in Probit Analysis.? Biometrika, vol. 35, no. 1/2, 1948, pp. 191?201. JSTOR, www.jstor.org/stable/2332639. Accessed 22 Jan. 2020.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 This program has three functions
